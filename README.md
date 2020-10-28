@@ -1,7 +1,6 @@
 # Experiment Summarizer
 
 ## Installing the package
-The package can be cloned from: https://github.com/matt-w-pierce/model_summarizer
 After cloning the repo, navigate to the base directory and run the following:
 ```
 pip install .

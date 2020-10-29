@@ -104,3 +104,6 @@ Using above example:
     streamlit run streamlit_app.py model_example model_dir
     
 This command should open the interface as a new window in your browser
+
+## Examples
+There is also an example of initializing and model summary and adding two experiments. It can be found in the ```examples``` directory. 

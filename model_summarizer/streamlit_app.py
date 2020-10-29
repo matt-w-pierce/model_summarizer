@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 import matplotlib.image as mpimg
 
-from experiment_summary import ExperimentSummary
+from model_summarizer.summarizer import ExperimentSummary
 
 # TODO: Used for testing viewing model metrics as a table
 use_metric_table = True

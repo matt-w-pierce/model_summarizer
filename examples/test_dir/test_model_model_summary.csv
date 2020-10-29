@@ -1,0 +1,3 @@
+title,description,exp_path,init_time,model_type,features,hyper_params,metric_one,metric_two,metric_three,metric_four,metric_five
+Experiment Title,A description for the first experiment,E:\Documents\Programming_Projects\model_summarizer\examples\test_dir\first_exp,2020-10-28 19:55:52.964924,,"['one', 'two', 'three']","{'param_one': 1, 'param_two': 'parameter two', 'param_three': True}",1,Two,False,"[1, 2, 3, 4]",line-chart.png
+The Second Experiment,A description for the second experiment,E:\Documents\Programming_Projects\model_summarizer\examples\test_dir\second_exp,2020-10-28 19:55:53.075949,,"['seven', 'eight', 'nine']","{'param_one': 2, 'param_two': 'parameter one', 'param_three': False}",2,Two,True,"[10, 11, 12, 13]",line-charts.png
